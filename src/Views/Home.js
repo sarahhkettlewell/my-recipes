@@ -11,7 +11,7 @@ function Home(){
                 <div className='menu-item'>
                     <div className='content'>
                         <div className='title'>Meat</div>
-                        <span className='subtitle'>Recipes</span>
+                        <span className='subtitle'>Recipe</span>
                     </div>
                 </div>
                 <div className='menu-item'>
